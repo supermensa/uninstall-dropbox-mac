@@ -2,5 +2,5 @@
 Easily uninstall everything dropbox from a mac
 
 - open Terminal
-- run e``sh killDropbox.sh```
+- run ```sh killDropbox.sh```
 - done
